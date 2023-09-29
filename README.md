@@ -1,6 +1,6 @@
-[# 2048-]
-[2048](https://jayadevagiri1197.github.io/2048-/)
-(https://jayadevagiri1197.github.io/2048-/)
+# 2048-
+[2048 game link](https://jayadevagiri1197.github.io/2048-/)
+
 
 
 
